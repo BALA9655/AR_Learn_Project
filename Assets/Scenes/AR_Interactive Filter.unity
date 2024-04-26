@@ -2634,10 +2634,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3971582481624473409, guid: 90bede33cab871d45ae9c716ab6be8d3,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4773557161766282840, guid: 90bede33cab871d45ae9c716ab6be8d3,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5212875099490440033, guid: 90bede33cab871d45ae9c716ab6be8d3,
         type: 3}
       propertyPath: m_Name
       value: GlassParent
+      objectReference: {fileID: 0}
+    - target: {fileID: 7146334791731450215, guid: 90bede33cab871d45ae9c716ab6be8d3,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

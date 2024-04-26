@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/AR Demo.unity
     guid: 23e1c790f6cc9e1429a1e7ca0f6002d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AR_Interactive Filter.unity
     guid: 4e23c49b81fdb7e469d19c4690de16fd
+  - enabled: 1
+    path: Assets/Scenes/AR_Filter_2.unity
+    guid: 54dd3531dbf8556479fa2173406c80c1
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
@@ -23,4 +26,6 @@ EditorBuildSettings:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 69e302219c2bf314fa328fb1a3b6f673,
       type: 2}

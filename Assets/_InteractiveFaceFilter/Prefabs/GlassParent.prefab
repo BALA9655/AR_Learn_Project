@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 5212875099490440033}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -106,10 +106,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e87105ef60df6aa4787f315cfef25f9a,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e87105ef60df6aa4787f315cfef25f9a,
         type: 3}
       propertyPath: m_Name
       value: Glasses_Simple
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e87105ef60df6aa4787f315cfef25f9a,
+        type: 3}
+      propertyPath: m_TagString
+      value: simple
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -180,10 +190,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fb8a0115d8814bd49b4609e9566545e8,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fb8a0115d8814bd49b4609e9566545e8,
         type: 3}
       propertyPath: m_Name
       value: Glasses_Cat
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fb8a0115d8814bd49b4609e9566545e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: cat
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -254,10 +274,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6b3199884720a1f429171a2626184a1e,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6b3199884720a1f429171a2626184a1e,
         type: 3}
       propertyPath: m_Name
       value: Glasses_Mask
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6b3199884720a1f429171a2626184a1e,
+        type: 3}
+      propertyPath: m_TagString
+      value: mask
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
